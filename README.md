@@ -1,5 +1,5 @@
 # teslausb
-
+# tim Jackson
 ## Intro
 
 You can configure a Raspberry Pi Zero W so that your Tesla thinks it's a USB drive and will write dashcam footage to it. Since it's a computer:
